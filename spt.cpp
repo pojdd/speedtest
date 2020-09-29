@@ -5,7 +5,6 @@
 #pragma comment(lib,"ws2_32.lib")
 using namespace std;
 
-using namespace std;
 
 size_t write_data(void* ptr, size_t size, size_t nmemb, void* stream)
 {
