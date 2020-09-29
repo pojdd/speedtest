@@ -1,0 +1,12 @@
+.vs
+*.obj
+*.pdb
+*.Build.CppClean.log
+*.tlog
+*.log
+*.applocal.log
+*.iobj
+*.ipdb
+*.vcxproj.FileListAbsolute.txt
+*.recipe
+*.vcxproj.CopyComplete
